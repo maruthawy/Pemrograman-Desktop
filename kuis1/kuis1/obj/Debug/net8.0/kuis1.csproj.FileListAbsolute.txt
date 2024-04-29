@@ -1,0 +1,14 @@
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\bin\Debug\net8.0\kuis1.exe
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\bin\Debug\net8.0\kuis1.deps.json
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\bin\Debug\net8.0\kuis1.runtimeconfig.json
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\bin\Debug\net8.0\kuis1.dll
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\bin\Debug\net8.0\kuis1.pdb
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.AssemblyInfoInputs.cache
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.AssemblyInfo.cs
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.csproj.CoreCompileInputs.cache
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.dll
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\refint\kuis1.dll
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.pdb
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\kuis1.genruntimeconfig.cache
+D:\PSSN\Kuliah\Semester 6\PEMROGRAMAN DESKTOP\kuis1\kuis1\kuis1\obj\Debug\net8.0\ref\kuis1.dll
